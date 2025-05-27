@@ -12,7 +12,7 @@ const Footer = () => {
                   <ion-icon name="bag"></ion-icon>
                   <h1>Multimart</h1>
               </div>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor libero id et, in gravida. Sit diam duis mauris nulla cursus. Erat et lectus vel ut sollicitudin elit at amet.</p>
+              <p className="justified-text">Multimart is your one-stop online shopping destination for everything you need from electronics and fashion to home essentials and lifestyle products. We are committed to delivering quality, value, and a seamless shopping experience right to your doorstep.</p>
             </Col>
             <Col md={3} sm={5} className='box'>
               <h2>About Us</h2>
@@ -37,9 +37,9 @@ const Footer = () => {
             <Col md={3} sm={5} className='box'>
               <h2>Contact Us</h2>
               <ul>
-                <li>70 Washington Square South, New York, NY 10012, United States </li>
-                <li>Email: uilib.help@gmail.com</li>
-                <li>Phone: +1 1123 456 780</li>
+                <li>Mangalagiri, Andhra Pradesh, India, 522502 </li>
+                <li>Email: subhani_kaithepalli@gmail.com</li>
+                <li>Phone: +91 7995703923</li>
               </ul>
             </Col>
           </Row>

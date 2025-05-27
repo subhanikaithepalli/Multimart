@@ -35,54 +35,55 @@ import watchSlide from "../Images/watch-07.png";
 
 export const SliderData = [
   {
-      id: 1,
-      title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: sofaSlide,
+    id: 1,
+    title: "50% Off For Your First Shopping",
+    desc: "Transform your living space with our premium sofas. Experience unmatched comfort and style at unbeatable prices – perfect for your modern home.",
+    cover: sofaSlide,
   },
   {
-      id: 2,
-      title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: phone08,
+    id: 2,
+    title: "50% Off For Your First Shopping",
+    desc: "Discover the latest smartphones with cutting-edge features, stunning displays, and lightning-fast performance – all at half the price for first-time buyers.",
+    cover: phone08,
   },
   {
-      id: 3,
-      title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: wireless01,
+    id: 3,
+    title: "50% Off For Your First Shopping",
+    desc: "Immerse yourself in crystal-clear sound with our wireless audio collection. Ideal for work, workouts, and everything in between – now at an exclusive discount.",
+    cover: wireless01,
   },
   {
-      id: 4,
-      title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: watchSlide,
+    id: 4,
+    title: "50% Off For Your First Shopping",
+    desc: "Stay ahead of time and style with our smart and classic watches. From tech-savvy to timeless, grab yours today at half the price.",
+    cover: watchSlide,
   },
 ];
+
 
 export const serviceData = [
   {
     icon: <ion-icon name="car"></ion-icon>,
     title: "Free Shipping",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    subtitle: "Fast & free delivery on all orders.",
     bg: "#fdefe6",
   },
   {
     icon: <ion-icon name="card"></ion-icon>,
     title: "Safe Payment",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    subtitle: "Secure and trusted payment options.",
     bg: "#ceebe9",
   },
   {
     icon: <ion-icon name="shield-half-outline"></ion-icon>,
     title: "Secure Payment",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    subtitle: "Your data stays private and protected.",
     bg: "#e2f2b2",
   },
   {
     icon: <ion-icon name="headset"></ion-icon>,
     title: " Back Guarantee",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    subtitle: "Easy returns with full refund.",
     bg: "#d6e5fb",
   },
 ];

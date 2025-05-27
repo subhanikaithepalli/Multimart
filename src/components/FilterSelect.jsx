@@ -6,7 +6,7 @@ const options = [
     { value: "chair", label: "Chair" },
     { value: "watch", label: "Watch" },
     { value: "mobile", label: "Mobile" },
-    { value: "wireless", label: "Wireless" },
+    { value: "wireless", label: "Earphones" },
 ];
 
 const customStyles = {
